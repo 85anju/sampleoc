@@ -6,4 +6,4 @@ python:
   - "3.6"    
   - "3.7"
   - "3.8"
-script: python my_app.py
+script: python app.py
